@@ -1,0 +1,16 @@
+C:\Users\wesle\Desktop\CastGroup\CsharpCurso\CSharpBasico\Aula13\bin\Debug\net5.0\Aula13.exe
+C:\Users\wesle\Desktop\CastGroup\CsharpCurso\CSharpBasico\Aula13\bin\Debug\net5.0\Aula13.deps.json
+C:\Users\wesle\Desktop\CastGroup\CsharpCurso\CSharpBasico\Aula13\bin\Debug\net5.0\Aula13.runtimeconfig.json
+C:\Users\wesle\Desktop\CastGroup\CsharpCurso\CSharpBasico\Aula13\bin\Debug\net5.0\Aula13.runtimeconfig.dev.json
+C:\Users\wesle\Desktop\CastGroup\CsharpCurso\CSharpBasico\Aula13\bin\Debug\net5.0\Aula13.dll
+C:\Users\wesle\Desktop\CastGroup\CsharpCurso\CSharpBasico\Aula13\bin\Debug\net5.0\Aula13.pdb
+C:\Users\wesle\Desktop\CastGroup\CsharpCurso\CSharpBasico\Aula13\obj\Debug\net5.0\Aula13.csproj.AssemblyReference.cache
+C:\Users\wesle\Desktop\CastGroup\CsharpCurso\CSharpBasico\Aula13\obj\Debug\net5.0\Aula13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\Desktop\CastGroup\CsharpCurso\CSharpBasico\Aula13\obj\Debug\net5.0\Aula13.AssemblyInfoInputs.cache
+C:\Users\wesle\Desktop\CastGroup\CsharpCurso\CSharpBasico\Aula13\obj\Debug\net5.0\Aula13.AssemblyInfo.cs
+C:\Users\wesle\Desktop\CastGroup\CsharpCurso\CSharpBasico\Aula13\obj\Debug\net5.0\Aula13.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Desktop\CastGroup\CsharpCurso\CSharpBasico\Aula13\obj\Debug\net5.0\Aula13.dll
+C:\Users\wesle\Desktop\CastGroup\CsharpCurso\CSharpBasico\Aula13\obj\Debug\net5.0\refint\Aula13.dll
+C:\Users\wesle\Desktop\CastGroup\CsharpCurso\CSharpBasico\Aula13\obj\Debug\net5.0\Aula13.pdb
+C:\Users\wesle\Desktop\CastGroup\CsharpCurso\CSharpBasico\Aula13\obj\Debug\net5.0\Aula13.genruntimeconfig.cache
+C:\Users\wesle\Desktop\CastGroup\CsharpCurso\CSharpBasico\Aula13\obj\Debug\net5.0\ref\Aula13.dll
